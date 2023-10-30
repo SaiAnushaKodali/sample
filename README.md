@@ -3,4 +3,4 @@ My First Repository with image
 
 
 
-![My Image](picture.png)
+![My Image](Pictures/picture.png)
